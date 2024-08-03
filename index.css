@@ -45,16 +45,8 @@ h2 {
     margin-top: 0;
 }
 
-ul {
-    display: flex;
-
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    width: 25%;
+table {
+    width: 100%;
 }
 
 /* WITH DIV */
