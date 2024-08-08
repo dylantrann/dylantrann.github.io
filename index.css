@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    width: 70%;
+    width: 50%;
     margin: auto;
     padding: 2vw;
 
@@ -48,6 +48,30 @@ h2 {
 table {
     margin: auto;
     width: 50%;
+}
+
+a {
+    background-color: #A3B18A;
+    padding: 0.5vw 1vw;
+    border-radius: 15%;
+    border-color: #344e41;
+    box-shadow: 0.2vw 0.2vw;
+
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: #3A5A40;
+}
+
+img {
+    width: 20vw;
+    border-radius: 50%;
+}
+
+p {
+    margin-top: 1.5vw;;
 }
 
 /* WITH DIV */
